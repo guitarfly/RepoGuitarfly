@@ -1,8 +1,8 @@
 # Das ist eine Testdatei.
-
+Fixes #2.
 Hier ist die erste Linie der Testdatei.
 Zweite Linie.
 Richtige dritte Linie.
 Dritte Linie.
 Vierte Linie.
-Fünfte Branch-Line richtig. Fixes #2.
+Fünfte Branch-Line richtig.
